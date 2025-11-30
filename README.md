@@ -25,7 +25,6 @@ Purpose:
 Learning useState, handling input, form submit, conditional display, and API calls.
 
 3️⃣ App Component
-Short Name: App
 What it does:
 Shows page title
 Renders:
